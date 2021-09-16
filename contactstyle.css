@@ -188,7 +188,7 @@ input[type=submit]:hover {
 }
 
 .getInTouch{
-    font-family: 'Leaves and Ground';
+    font-family: 'Yellowtail', cursive;;
     font-size: 170px;
     margin-right: 90px;
     margin-top: 50px;
@@ -290,7 +290,7 @@ input[type=submit]:hover {
     }
     
     .getInTouch{
-        font-family: 'Leaves and Ground';
+        font-family: 'Yellowtail', cursive;;
         font-size: 100px;
         color: #b48fbb;
         margin-right: 0;
