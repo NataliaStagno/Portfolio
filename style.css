@@ -55,7 +55,7 @@ body {
   color: white;
   letter-spacing: 7px;
   margin-left: 5%;
-  margin-top: -20px;
+  margin-top: 0px;
 }
 
 #explore p{
@@ -63,7 +63,7 @@ body {
   font-family: 'Noto Sans TC', sans-serif;
   color: white;
   margin-left: 5%;
-  margin-top: -20px;
+  margin-top: 0px;
 }
 
 
@@ -97,7 +97,7 @@ body {
       color: white;
       letter-spacing: 7px;
       margin-left: 5%;
-      margin-top: -20px;
+      margin-top: 0px;
     }
     
     #explore p{
@@ -105,7 +105,7 @@ body {
       font-family: 'Noto Sans TC', sans-serif;
       color: white;
       margin-left: 5%;
-      margin-top: -20px;
+      margin-top: 0px;
     }
 
   }
@@ -147,7 +147,7 @@ body {
       color: white;
       letter-spacing: 7px;
       margin-left: 5%;
-      margin-top: -50px;
+      margin-top: 0px;
     }
     
     #explore p{
@@ -155,7 +155,7 @@ body {
       font-family: 'Noto Sans TC', sans-serif;
       color: white;
       margin-left: 5%;
-      margin-top: -50px;
+      margin-top: 0px;
     }
 
   }
